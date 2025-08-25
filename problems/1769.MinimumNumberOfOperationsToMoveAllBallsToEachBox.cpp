@@ -4,6 +4,13 @@
 
 using namespace std;
 
+/*
+
+Can be done through traversal, I'm gonna look at that later.
+
+
+*/
+
 class Solution
 {
 public:
